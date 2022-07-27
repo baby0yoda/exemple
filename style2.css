@@ -1,0 +1,16 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+button{
+    background-color: red;
+    color: white;
+    border: none;
+    margin: 0;
+    padding: 5px 25px
+}
+header{
+    height: 100px;
+    width: 14em;
+    background-color: aqua;
+}

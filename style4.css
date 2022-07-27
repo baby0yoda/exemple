@@ -1,0 +1,29 @@
+
+
+.container{
+    height: fit-content;
+    width:fit-content;
+    background-color: rgb(37, 33, 33);
+    border-radius: 10px;
+    padding: 10px 9px 9px 9px;
+}
+
+.black-key{
+    background-color: black;
+    height: 70px;
+    width: 35px;
+    padding-bottom : 80px;
+    display: inline-block;
+}
+.white-key{
+    background-color: white;
+    height: 150px;
+width: 54px;
+display: inline-block;
+}
+.white-key:hover{
+    background-color: rgb(70, 6, 245);
+}
+.black-key:hover{
+    background-color: blue;
+}

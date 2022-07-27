@@ -1,0 +1,11 @@
+.link~ P{}
+a{ background-color: blue;
+color: black;
+}
+#text{border-color: blueviolet;}
+.content{
+    height: 400px;
+    background-color: darkblue;}
+    a:visited{
+        color: brown;
+    }
